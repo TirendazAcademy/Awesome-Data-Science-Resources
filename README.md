@@ -96,6 +96,22 @@
 
 🟠 [Data Engineering Practice](https://github.com/danielbeach/data-engineering-practice) repo helps you develop and learn data engineering skills.
 
+## 📌 Useful Data Engineering Repos
+
+🟠 [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) is a this that aims at providing an overview of open-source projects related to data engineering. 
+
+## 📌 Data Engineering Projects
+
+🟠 [HashtagCashtag](https://github.com/shafiab/HashtagCashtag) shows how to build a big data pipeline for user sentiment analysis on the US stock market.
+
+🟠 [Building a Data Engineering Project in 20 Minutes](https://github.com/sspaeti-com/practical-data-engineering) learns web scraping with real-estates, uploading them to S3, Spark, and Delta Lake, and adding Data Science with Jupyter.
+
+🟠 [Analyzing GitHub Repos](https://hoffa.medium.com/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.qm2s97y25) 
+
+🟠 The goal of [Web Crawler For Online Inflation](https://github.com/uhussain/WebCrawlerForOnlineInflation) project is to calculate inflation rates from first principles.
+
+🟠 [This repo](https://github.com/alanchn31/Data-Engineering-Projects) contains projects done which applies principles in data engineering.
+
 # ✨ SQL
 
 ## 📌 Best free resources for learning SQL
