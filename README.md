@@ -82,6 +82,8 @@
 
 🟠 [Awesome NLP](https://github.com/keon/awesome-nlp) repo contains a curated list of resources dedicated to Natural Language Processing.
 
+🟠 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) is an organized website where you can find all the free courses from Top Universities with their links.
+
 # ✨ Data Engineering 
 
 ## 📌 Free Resources to Learn Data Engineering
