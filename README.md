@@ -6,7 +6,7 @@
 
 # ✨ Data Science
 
-## 📌 Free Books for Data Science
+## 📌 💯 Free Books for Data Science
 
 🟠 [Natural Language Processing with Python](https://nltk.org/book_1ed/) book show how to analyze text with the Natural Language Toolkit.
 
@@ -44,7 +44,7 @@
 
 # ✨ Machine Learning
 
-## 📌 Best Github Repos for Machine Learning
+## 📌 💯 Free Best Github Repos for Machine Learning
 
 🟠 [100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) repo includes an excellent 100-day plan for learning ML.
 
@@ -56,7 +56,7 @@
 
 🟠 [500 AI & Machine-learning Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) repo contains 500 AI, machine learning, deep learning, computer vision, and NLP projects with code.
 
-## 📌 Free Books for Machine Learning
+## 📌 💯 Free Books for Machine Learning
 
 🟠 [Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
@@ -70,7 +70,7 @@
 
 # ✨ Deep Learning
 
-## 📌 Free Resources for Learning Natural Language Processing with Python 
+## 📌 💯 Free Resources for Learning Natural Language Processing with Python 
 
 🟠 [Natural Language Processing Tutorial](https://github.com/graykode/nlp-tutorial) is a tutorial for those who are studying NLP using Pytorch.
  
@@ -86,7 +86,7 @@
 
 # ✨ Data Engineering 
 
-## 📌 Free Resources to Learn Data Engineering
+## 📌 💯 Free Resources to Learn Data Engineering
 
 🟠 [The Data Engineering Cookbook](https://github.com/oleg-agapov/data-engineering-book) repo aims to be a starting point for those who want to become data engineers.
 
@@ -114,9 +114,14 @@
 
 🟠 [This repo](https://github.com/alanchn31/Data-Engineering-Projects) contains projects done which applies principles in data engineering.
 
+🟠 [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) is an implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API. The pipeline infrastructure is built using popular, open-source projects.
+
+🟠 This aim of [this repository](https://github.com/danielbeach/data-engineering-practice) is to help you develop and learn those skills. You can find the high level topics such python data processing, SQL database table design, PySpark, data cleaning.
+
+
 # ✨ SQL
 
-## 📌 Best free resources for learning SQL
+## 📌 💯 Best free resources for learning SQL
 
 🟠 [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) is an interactive, Wiki-based tutorial that provides lessons and projects for beginners in SQL.
 
