@@ -2,7 +2,7 @@
 
 ![](https://img.freepik.com/free-photo/i-can-handle-multi-tasks-cropped-shot-successful-girl-typing-keyboard-making-notes-while-looking-computer-screen-studying-new-business-graphic-there-is-no-time-rest_176420-8700.jpg?w=1060&t=st=1665778984~exp=1665779584~hmac=248323a3bfb91e0f5f66b39aa075a0a588f1060f7bc3b16161da5d416467dfd7)
 
-## This repo contains resources on data scince, machine learning, deep learning, data engineering and SQL. If you enjoy this repo, give ✨ star and share.
+## This repo contains resources on data scince, machine learning, deep learning, data engineering and SQL. If you enjoy this repo, give me star ✨ and share.
 
 # ✨ Data Science
 
@@ -147,6 +147,6 @@
 
 🟠 [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) includes video-based content with detailed explanations
 
-🔥 I'll update this repo as I find new sources so don't forget to watch this repo 👍
+🔥 I'll update this repo once I find new sources so don't forget to watch this repo 👍
 
 🚀 For more content on data science, follow [Twitter](https://twitter.com/TirendazAcademy) | [Instagram](https://www.instagram.com/tirendazacademy) | [YouTube](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw) | [Tiktok](https://www.tiktok.com/@tirendazacademy) | [Medium](https://tirendazacademy.medium.com) | [Reddit](https://www.reddit.com/user/TirendazAcademy) 
