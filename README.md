@@ -68,11 +68,15 @@
 
 🟠 [Statistical Learning with Sparsity The Lasso and Generalizations by Trevor Hastie, Robert Tibshirani, Martin Wainwright](http://www.kareemalkaseer.com/books/ml)
 
-## 📌 Certifications
+## 📌 Courses
 
-🟠 [Professional Machine Learning Enginer]() repo contains posts about a lot of GCP and other certifications.
+🟠 [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
-🟠 [How to prepare for the GCP Professional Machine Learning Engineer exam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f)
+🟠 [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+
+🟠 [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+
+🟠 [ML Pipelines on Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
 # ✨ Deep Learning
 
