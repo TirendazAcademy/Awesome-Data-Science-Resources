@@ -68,6 +68,12 @@
 
 🟠 [Statistical Learning with Sparsity The Lasso and Generalizations by Trevor Hastie, Robert Tibshirani, Martin Wainwright](http://www.kareemalkaseer.com/books/ml)
 
+## 📌 Certifications
+
+🟠 [Professional Machine Learning Enginer]() repo contains posts about a lot of GCP and other certifications.
+
+🟠 [How to prepare for the GCP Professional Machine Learning Engineer exam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f)
+
 # ✨ Deep Learning
 
 ## 📌 💯 Free Resources for Learning Natural Language Processing with Python 
