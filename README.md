@@ -80,6 +80,28 @@
 
 # ✨ Deep Learning
 
+## 📌 10 Best Deep Learning Books for Beginners and Experts
+
+🟠 [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+
+🟠 [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
+
+🟠 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+
+🟠 [AI and Machine Learning for Coders](https://www.amazon.com/Machine-Learning-Coders-Programmers-Intelligence/dp/1492078190)
+
+🟠 [Deep Learning for Coders with fastai & PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
+
+🟠 [Deep Learning from Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles/dp/1492041416)
+
+🟠 [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
+
+🟠 [Fundamentals of Deep Learning](https://www.oreilly.com/library/view/fundamentals-of-deep/9781492082170/)
+
+🟠 [Deep Learning with TensorFlow and Keras](https://www.amazon.com/Deep-Learning-TensorFlow-Keras-reinforcement/dp/1803232919)
+
+🟠 [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+
 ## 📌 💯 Free Resources for Learning Natural Language Processing with Python 
 
 🟠 [Natural Language Processing Tutorial](https://github.com/graykode/nlp-tutorial) is a tutorial for those who are studying NLP using Pytorch.
