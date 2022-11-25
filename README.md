@@ -68,7 +68,7 @@
 
 🟠 [Statistical Learning with Sparsity The Lasso and Generalizations by Trevor Hastie, Robert Tibshirani, Martin Wainwright](http://www.kareemalkaseer.com/books/ml)
 
-## 📌 Courses
+## 📌 Machine Learning Courses
 
 🟠 [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
@@ -176,3 +176,5 @@
 🔥 I'll update this repo once I find new sources so don't forget to watch this repo 👍
 
 🚀 For more content on data science, follow [Twitter](https://twitter.com/TirendazAcademy) | [Instagram](https://www.instagram.com/tirendazacademy) | [YouTube](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw) | [Tiktok](https://www.tiktok.com/@tirendazacademy) | [Medium](https://tirendazacademy.medium.com) | [Reddit](https://www.reddit.com/user/TirendazAcademy) 
+
+# ✨ An AI Research Assistant: [Elicit](https://elicit.org/)
