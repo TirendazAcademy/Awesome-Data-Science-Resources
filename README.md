@@ -102,7 +102,7 @@
 
 🟠 [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 
-## 📌 💯 Free Deep Course
+## 📌 💯 Free Deep Learning Courses
 
 🟠 [Practical Deep Learning](https://course.fast.ai/)
 
