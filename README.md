@@ -102,6 +102,10 @@
 
 🟠 [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 
+## 📌 💯 Free Deep Course
+
+🟠 [Practical Deep Learning](https://course.fast.ai/)
+
 ## 📌 💯 Free Resources for Learning Natural Language Processing with Python 
 
 🟠 [Natural Language Processing Tutorial](https://github.com/graykode/nlp-tutorial) is a tutorial for those who are studying NLP using Pytorch.
