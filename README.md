@@ -154,6 +154,9 @@
 
 🟠 This aim of [this repository](https://github.com/danielbeach/data-engineering-practice) is to help you develop and learn those skills. You can find the high level topics such python data processing, SQL database table design, PySpark, data cleaning.
 
+# ✨ AI
+
+## 📌 💯 Free An AI Research Assistant: [Elicit](https://elicit.org/)
 
 # ✨ SQL
 
@@ -177,4 +180,5 @@
 
 🚀 For more content on data science, follow [Twitter](https://twitter.com/TirendazAcademy) | [Instagram](https://www.instagram.com/tirendazacademy) | [YouTube](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw) | [Tiktok](https://www.tiktok.com/@tirendazacademy) | [Medium](https://tirendazacademy.medium.com) | [Reddit](https://www.reddit.com/user/TirendazAcademy) 
 
-# ✨ An AI Research Assistant: [Elicit](https://elicit.org/)
+
+
