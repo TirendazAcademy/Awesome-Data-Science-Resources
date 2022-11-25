@@ -156,7 +156,9 @@
 
 # ✨ AI
 
-## 📌 💯 Free An AI Research Assistant: [Elicit](https://elicit.org/)
+## 📌 💯 Free AI Tools
+
+🟠 An AI Research Assistant: [Elicit](https://elicit.org/)
 
 # ✨ SQL
 
