@@ -2,7 +2,7 @@
 
 ![](https://img.freepik.com/free-photo/i-can-handle-multi-tasks-cropped-shot-successful-girl-typing-keyboard-making-notes-while-looking-computer-screen-studying-new-business-graphic-there-is-no-time-rest_176420-8700.jpg?w=1060&t=st=1665778984~exp=1665779584~hmac=248323a3bfb91e0f5f66b39aa075a0a588f1060f7bc3b16161da5d416467dfd7)
 
-## This repo contains resources on data scince, machine learning, deep learning, data engineering and SQL. If you enjoy this repo, give me star ✨ and share.
+## This repo contains resources on data scince, AI, machine learning, deep learning, data engineering and SQL. If you enjoy this repo, give me star ✨ and share.
 
 # ✨ Data Science
 
