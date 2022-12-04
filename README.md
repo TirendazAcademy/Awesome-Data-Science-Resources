@@ -42,6 +42,10 @@
 
 🟠 [DNN for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) paper mentions the architecture of Deep Learning models used for recommendations on YouTube.
 
+## 📌 Data Science Projects
+
+🟠 [Data-Science-Projects](https://github.com/veb-101/Data-Science-Projects)
+
 # ✨ Machine Learning
 
 ## 📌 💯 Free Best Github Repos for Machine Learning
