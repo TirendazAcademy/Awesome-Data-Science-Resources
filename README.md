@@ -82,6 +82,12 @@
 
 🟠 [ML Pipelines on Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
+## 📌 Machine Learning GitHub Repos
+
+🟠 [Principles of Machine Learning Python by MicrosoftLearning](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python)
+
+🟠 [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics)
+
 # ✨ Deep Learning
 
 ## 📌 10 Best Deep Learning Books for Beginners and Experts
