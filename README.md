@@ -46,6 +46,10 @@
 
 🟠 [Data-Science-Projects](https://github.com/veb-101/Data-Science-Projects)
 
+## Data Libraries
+
+🟠 Awesome Pandas ()[https://github.com/tommyod/awesome-pandas]
+
 # ✨ Machine Learning
 
 ## 📌 💯 Free Best Github Repos for Machine Learning
