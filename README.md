@@ -28,19 +28,19 @@
 
 📕 [Introduction to Machine Learning with Python](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view) book focuses on the practical application of machine learning techniques rather than covering the math behind the field.
 
-##  🧾 Articles Data Scientists Should Read
+##  📙 Articles Data Scientists Should Read
 
-🧾 [Transformers](https://arxiv.org/pdf/1706.03762.pdf) enable the processing of sequences in a parallel method.
+📙 [Transformers](https://arxiv.org/pdf/1706.03762.pdf) enable the processing of sequences in a parallel method.
 
-🧾 [BERT](https://arxiv.org/pdf/1810.04805.pdf) is an NLP model based on transformers.
+📙 [BERT](https://arxiv.org/pdf/1810.04805.pdf) is an NLP model based on transformers.
 
-🧾 [StyleGAN](https://arxiv.org/pdf/1812.04948.pdf) is a generative adversarial network (GAN) introduced by Nvidia researchers in December 2018, and made source available in February 2019.
+📙 [StyleGAN](https://arxiv.org/pdf/1812.04948.pdf) is a generative adversarial network (GAN) introduced by Nvidia researchers in December 2018, and made source available in February 2019.
 
-🧾 [CLIP](https://arxiv.org/pdf/2103.00020.pdf) is a neural network trained on a variety of (image, text) pairs.
+📙 [CLIP](https://arxiv.org/pdf/2103.00020.pdf) is a neural network trained on a variety of (image, text) pairs.
 
-🧾 [The game of Go with deep neural networks](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) paper revealed AlphaGo which defeated the European Go champion by 5 games to 0.
+📙 [The game of Go with deep neural networks](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) paper revealed AlphaGo which defeated the European Go champion by 5 games to 0.
 
-🧾 [DNN for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) paper mentions the architecture of Deep Learning models used for recommendations on YouTube.
+📙 [DNN for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) paper mentions the architecture of Deep Learning models used for recommendations on YouTube.
 
 ## 💪 Data Science Projects
 
@@ -129,6 +129,7 @@
 ## 👨‍🎓 💯 Free Deep Learning Courses
 
  👨‍🎓 [Practical Deep Learning](https://course.fast.ai/)
+ 👨‍🎓 [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 
 ## 🏫 💯 Free Resources for Learning NLP with Python 
 
