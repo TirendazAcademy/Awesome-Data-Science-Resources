@@ -198,7 +198,7 @@
 
 # ✨ SQL
 
-##  💯 Best Free Resources for Learning SQL
+## 🏫 💯 Best Free Resources for Learning SQL
 
 🏫 [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) is an interactive, Wiki-based tutorial that provides lessons and projects for beginners in SQL.
 
