@@ -50,6 +50,10 @@
 
 🚀 [Awesome Pandas](https://github.com/tommyod/awesome-pandas)
 
+## 🔥 Github Repos for Data Science
+
+🔥 [Kaggle Courses](https://github.com/drakearch/kaggle-courses)
+
 # ✨ Machine Learning
 
 ## 🔥 Github Repos for ML
