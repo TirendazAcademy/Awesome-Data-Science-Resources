@@ -86,19 +86,19 @@
 
 📕 [ML Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
-## 👨‍🎓 Machine Learning Courses
+## 🚩 Machine Learning Courses
 
-👨‍🎓 [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+🚩 [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
-👨‍🎓 [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+🚩 [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
-👨‍🎓 [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+🚩 [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
-👨‍🎓 [ML Pipelines on Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+🚩 [ML Pipelines on Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
 # ✨ Machine Learning Engineering
 
-## 🔥 ML Engineering Repos
+## 🔥 ML Engineering GitHub Repos
 
 🔥 [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 
@@ -126,24 +126,10 @@
 
 📕 [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 
-## 👨‍🎓 💯 Free Deep Learning Courses
+## 🚩 💯 Free Deep Learning Courses
 
- 👨‍🎓 [Practical Deep Learning](https://course.fast.ai/)
- 👨‍🎓 [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
-
-## 🏫 💯 Free Resources for Learning NLP with Python 
-
-🏫 [Natural Language Processing Tutorial](https://github.com/graykode/nlp-tutorial) is a tutorial for those who are studying NLP using Pytorch.
- 
-🏫 [NLP Recipes](https://github.com/microsoft/nlp-recipes) repo contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions.
-
-🏫 [NLP Course](https://github.com/yandexdataschool/nlp_course) course includes lecture and seminar materials about NLP for each week.
-
-🏫 [NLP in Python Tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) covers NLP step-by-step with several Jupyter Notebooks during the tutorial and uses a number of data science libraries along the way.
-
-🏫 [Awesome NLP](https://github.com/keon/awesome-nlp) repo contains a curated list of resources dedicated to Natural Language Processing.
-
-🏫 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) is an organized website where you can find all the free courses from Top Universities with their links.
+🚩 [Practical Deep Learning](https://course.fast.ai/)
+🚩 [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 
 ## 🙌 Deep Learning Frameworks
 
@@ -154,21 +140,39 @@
 🙌 [FastAI](https://docs.fast.ai/)
 🙌 [Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/)
 
+# ✨ Natural Language Processing
+
+## 🔥 GitHub Repos for Learning NLP
+
+🔥 [Natural Language Processing Tutorial](https://github.com/graykode/nlp-tutorial) is a tutorial for those who are studying NLP using Pytorch.
+ 
+🔥 [NLP Recipes](https://github.com/microsoft/nlp-recipes) repo contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions.
+
+🔥 [NLP Course](https://github.com/yandexdataschool/nlp_course) course includes lecture and seminar materials about NLP for each week.
+
+🔥 [NLP in Python Tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) covers NLP step-by-step with several Jupyter Notebooks during the tutorial and uses a number of data science libraries along the way.
+
+🔥 [Awesome NLP](https://github.com/keon/awesome-nlp) repo contains a curated list of resources dedicated to Natural Language Processing.
+
+🔥 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) is an organized website where you can find all the free courses from Top Universities with their links.
+
+## 🚩 Courses for NLP
+
+🚩 [Advanced NLP with spaCy](https://course.spacy.io/en)
+
 # ✨ Data Engineering 
 
-##  👨‍🎓 💯 Free Resources to Learn Data Engineering
+## 🔥 GitHub Repos for Learning Data Engineering
 
- 👨‍🎓 [The Data Engineering Cookbook](https://github.com/oleg-agapov/data-engineering-book) repo aims to be a starting point for those who want to become data engineers.
+🔥 [The Data Engineering Cookbook](https://github.com/oleg-agapov/data-engineering-book) repo aims to be a starting point for those who want to become data engineers.
 
- 👨‍🎓 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) repo helps you learn data engineering step by step with slides and videos.
+🔥 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) repo helps you learn data engineering step by step with slides and videos.
 
- 👨‍🎓 [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) repo provides a curated list of data engineering tools for software developers
+🔥 [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) repo provides a curated list of data engineering tools for software developers
 
- 👨‍🎓 [Udacity Data Engineering Projects](https://github.com/san089/Udacity-Data-Engineering-Projects) repo includes data engineering projects.
+🔥 [Udacity Data Engineering Projects](https://github.com/san089/Udacity-Data-Engineering-Projects) repo includes data engineering projects.
 
- 👨‍🎓 [Data Engineering Practice](https://github.com/danielbeach/data-engineering-practice) repo helps you develop and learn data engineering skills.
-
-## 🔥 Useful Data Engineering Repos
+🔥 [Data Engineering Practice](https://github.com/danielbeach/data-engineering-practice) repo helps you develop and learn data engineering skills.
 
 🔥 [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) is a this that aims at providing an overview of open-source projects related to data engineering. 
 
@@ -198,21 +202,21 @@
 
 # ✨ SQL
 
-## 🏫 💯 Best Free Resources for Learning SQL
+## 🚩 💯 Best Free Resources for Learning SQL
 
-🏫 [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) is an interactive, Wiki-based tutorial that provides lessons and projects for beginners in SQL.
+🚩 [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) is an interactive, Wiki-based tutorial that provides lessons and projects for beginners in SQL.
 
-🏫 [SQLBolt](https://sqlbolt.com) offers easy-to-follow instructions, a simple interface, and interactive exercises to teach basic proficiency in SQL.
+🚩 [SQLBolt](https://sqlbolt.com) offers easy-to-follow instructions, a simple interface, and interactive exercises to teach basic proficiency in SQL.
  
-🏫 [Kaggle](https://www.kaggle.com/learn/intro-to-sql) provides tutorials to learn SQL for working with databases, using Google BigQuery from introduction to advanced level.
+🚩 [Kaggle](https://www.kaggle.com/learn/intro-to-sql) provides tutorials to learn SQL for working with databases, using Google BigQuery from introduction to advanced level.
 
-🏫 [CodeAcademy](https://join.codecademy.com/learn/learn-sql/) teaches you how to communicate with relational databases through SQL.
+🚩 [CodeAcademy](https://join.codecademy.com/learn/learn-sql/) teaches you how to communicate with relational databases through SQL.
 
-🏫 [Pop SQL](https://popsql.com/learn-sql) allows you to share queries, store commonly used queries in a searchable library, and provides a visual interface for analysis.
+🚩 [Pop SQL](https://popsql.com/learn-sql) allows you to share queries, store commonly used queries in a searchable library, and provides a visual interface for analysis.
 
-🏫 [Learning SQL book](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) is for you if you like to learn with a book. This book is available to read for free online via this PDF.
+🚩 [Learning SQL book](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) is for you if you like to learn with a book. This book is available to read for free online via this PDF.
 
-🏫 [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) includes video-based content with detailed explanations
+🚩 [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) includes video-based content with detailed explanations
 
 😍 I'll update this repo once I find new sources so don't forget to watch this repo. If you enjoy this repo, give me star and share.
 
