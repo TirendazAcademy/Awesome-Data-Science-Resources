@@ -104,7 +104,7 @@
 
 # ✨ Deep Learning
 
-## 📕 10 Best Deep Learning Books for Beginners and Experts
+## 📕 10 Best Deep Learning Books 
 
 📕 [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 
@@ -139,6 +139,10 @@
 🙌 [Learn PyTorch](https://www.learnpytorch.io/)
 🙌 [FastAI](https://docs.fast.ai/)
 🙌 [Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/)
+
+# 🔥 GitHub Repos for Deep Learning
+
+🔥 [FastAI Course](https://github.com/fastai/courses)
 
 # ✨ Natural Language Processing
 
