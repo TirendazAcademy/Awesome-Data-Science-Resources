@@ -96,6 +96,11 @@
 
 🚩 [ML Pipelines on Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
+## 💪 Machine Learning Projects
+
+💪 [ML projects](https://github.com/cloudxlab/ml)
+💪 [DataCamp Project Solutions Python](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
+
 # ✨ Machine Learning Engineering
 
 ## 🔥 ML Engineering GitHub Repos
@@ -221,6 +226,10 @@
 🚩 [Learning SQL book](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) is for you if you like to learn with a book. This book is available to read for free online via this PDF.
 
 🚩 [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) includes video-based content with detailed explanations
+
+## 💪 SQL Projects
+
+💪 [Data Analysis Projects](https://github.com/codebasics/DataAnalysisProjects)
 
 😍 I'll update this repo once I find new sources so don't forget to watch this repo. If you enjoy this repo, give me star and share.
 
