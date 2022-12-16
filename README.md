@@ -50,6 +50,7 @@
 ## 🚀 Data Libraries
 
 🚀 [Awesome Pandas](https://github.com/tommyod/awesome-pandas)
+🚀 [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
 
 ## 🔥 Github Repos for Data Science
 
