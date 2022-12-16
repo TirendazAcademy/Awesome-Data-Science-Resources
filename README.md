@@ -45,6 +45,7 @@
 ## 💪 Data Science Projects
 
 💪 [Data Science Projects](https://github.com/veb-101/Data-Science-Projects)
+💪 [Online Challenge](https://github.com/alexattia/Data-Science-Projects)
 
 ## 🚀 Data Libraries
 
