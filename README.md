@@ -58,9 +58,12 @@
 
 - [PyCaret](https://github.com/pycaret/pycaret) is an open-source, low-code machine learning library in Python that automates machine learning workflows.
 
+- [FeatureSelectionGA](https://github.com/kaushalshetty/FeatureSelectionGA) searches for one of the best feature set from other features in order to attain a high accuracy.
+
 ## 🔥 Github Repos for Data Science
 
 - [Kaggle Courses](https://github.com/drakearch/kaggle-courses)
+- [Pattern Classification](https://github.com/rasbt/pattern_classification) includes tutorials, examples, collections, and everything else that falls into the categories: pattern classification, machine learning, and data mining.
 
 # ✨ Machine Learning
 
