@@ -47,7 +47,7 @@
 - [Data Science Projects](https://github.com/veb-101/Data-Science-Projects)
 - [Online Challenge](https://github.com/alexattia/Data-Science-Projects)
 
-## 🚀 Data Libraries
+## 🚀 Data Libraries Tutorial
 
 - [Awesome Pandas](https://github.com/tommyod/awesome-pandas)
 - [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
@@ -82,6 +82,8 @@
 - [Principles of Machine Learning Python by MicrosoftLearning](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python)
 
 - [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics)
+
+- [TOBB ETU Machine Learning Course](https://github.com/bbardakk/TOBB-ETU-YAP470-2022)
 
 ## 📕 💯 Free Books for ML
 
