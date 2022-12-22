@@ -114,6 +114,16 @@
 - [ML projects](https://github.com/cloudxlab/ml)
 - [DataCamp Project Solutions Python](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
 
+## 🙌 Machine Learning Tools
+
+-[PyCaret](https://github.com/pycaret/pycaret)
+-[EvalML](https://github.com/alteryx/evalml)
+
+## MLOps Tools
+
+-[MLflow](https://mlflow.org/)
+-[Comet](https://www.comet.com/site/)
+
 # ✨ Machine Learning Engineering
 
 ## 🔥 ML Engineering GitHub Repos
