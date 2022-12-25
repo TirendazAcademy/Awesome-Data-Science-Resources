@@ -254,9 +254,11 @@
 
 - [Data Analysis Projects](https://github.com/codebasics/DataAnalysisProjects)
 
-#  DataSets
+# 💹 DataSets
 
-- [https://github.com/erikgahner/PolData](A dataset with political datasets)
+- [A dataset with political datasets](https://github.com/erikgahner/PolData)
+
+---
 
 😍 I'll update this repo once I find new sources so don't forget to watch this repo. If you enjoy this repo, give me star and share.
 
