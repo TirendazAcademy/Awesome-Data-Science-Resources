@@ -254,6 +254,10 @@
 
 - [Data Analysis Projects](https://github.com/codebasics/DataAnalysisProjects)
 
+#  DataSets
+
+- [https://github.com/erikgahner/PolData](A dataset with political datasets)
+
 😍 I'll update this repo once I find new sources so don't forget to watch this repo. If you enjoy this repo, give me star and share.
 
 👍 Let's connect! [YouTube](https://www.youtube.com/c/tirendazacademy) | [Medium](https://tirendazacademy.medium.com) | [Twitter](https://twitter.com/TirendazAcademy) | [Instagram](https://www.instagram.com/tirendazacademy) | [Tiktok](https://www.tiktok.com/@tirendazacademy) | [Reddit](https://www.reddit.com/user/TirendazAcademy) 
