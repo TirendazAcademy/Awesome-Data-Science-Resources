@@ -175,7 +175,7 @@
 
 ## 😍 Stable Diffusion Examples
 
-- [stable-diffusion-keras-ft](https://github.com/sayakpaul/stable-diffusion-keras-ft)
+- [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
 
 # ✨ Natural Language Processing
 
