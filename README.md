@@ -173,6 +173,10 @@
 
 - [FastAI Course](https://github.com/fastai/courses)
 
+## 😍 Stable Diffusion Examples
+
+- [stable-diffusion-keras-ft](https://github.com/sayakpaul/stable-diffusion-keras-ft)
+
 # ✨ Natural Language Processing
 
 ## 🔥 GitHub Repos for Learning NLP
