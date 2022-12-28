@@ -117,13 +117,13 @@
 
 ## 🙌 Machine Learning Tools
 
--[PyCaret](https://github.com/pycaret/pycaret)
--[EvalML](https://github.com/alteryx/evalml)
+- [PyCaret](https://github.com/pycaret/pycaret)
+- [EvalML](https://github.com/alteryx/evalml)
 
 ## MLOps Tools
 
--[MLflow](https://mlflow.org/)
--[Comet](https://www.comet.com/site/)
+- [MLflow](https://mlflow.org/)
+- [Comet](https://www.comet.com/site/)
 
 # ✨ Machine Learning Engineering
 
