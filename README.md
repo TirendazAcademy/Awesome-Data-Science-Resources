@@ -64,6 +64,7 @@
 
 - [Kaggle Courses](https://github.com/drakearch/kaggle-courses)
 - [Pattern Classification](https://github.com/rasbt/pattern_classification) includes tutorials, examples, collections, and everything else that falls into the categories: pattern classification, machine learning, and data mining.
+- [Feature Selector: Simple Feature Selection in Python](https://github.com/WillKoehrsen/feature-selector)
 
 # ✨ Machine Learning
 
