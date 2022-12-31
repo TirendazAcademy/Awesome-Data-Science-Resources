@@ -50,6 +50,7 @@
 ## 🚀 Data Libraries Tutorial
 
 - [Awesome Pandas](https://github.com/tommyod/awesome-pandas)
+- [Pandas Tutorial](https://github.com/KeithGalli/pandas)
 - [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
 
 ## 🤖 Data Science Tools
