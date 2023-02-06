@@ -1,8 +1,8 @@
-# 🔶 AWESOME DATA SCIENCE RESOURCES 🔶
+# 🔶 Welcome to Awesome Data Science Resources 🔶
 
-![](https://img.freepik.com/free-photo/blissful-african-female-head-marketing-department-posing-with-thumb-up-after-hard-work_197531-4993.jpg?w=1060&t=st=1670572428~exp=1670573028~hmac=43fdff683756f87a99ba2cbcc0520ac9517cf3e888253be1feba09ddc2142b7b)
+![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Banner.png?raw=true)
 
-### This repo contains resources on data scince, AI, machine learning, deep learning, data engineering and SQL. 
+Data science and artificial intelligence have been booming in recent years. This repo contains resources on data scince, AI, machine learning, deep learning, data engineering and SQL. 
 
 # ✨ Data Science
 
