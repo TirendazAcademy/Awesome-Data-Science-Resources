@@ -2,9 +2,9 @@
 
 ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Banner.png?raw=true)
 
-Data science and artificial intelligence have been booming in recent years. This repo contains resources on data scince, AI, machine learning, deep learning, data engineering and SQL. 
+Data science and artificial intelligence have been booming in recent years. This repo contains resources on data scince, AI, machine learning, deep learning, data engineering and SQL. If you like this repo, don't forget to star it ✨
 
-# ✨ Data Science
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/18.png?raw=true)
 
 ## 📕 💯 Free Books for Data Science
 
@@ -51,7 +51,7 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Pattern Classification](https://github.com/rasbt/pattern_classification) includes tutorials, examples, collections, and everything else that falls into the categories: pattern classification, machine learning, and data mining.
 - [Feature Selector: Simple Feature Selection in Python](https://github.com/WillKoehrsen/feature-selector)
 
-# ✨ Machine Learning
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/19.png?raw=true)
 
 ## 🔥 Github Repos for ML
 
@@ -95,13 +95,13 @@ Data science and artificial intelligence have been booming in recent years. This
 - [MLflow](https://mlflow.org/)
 - [Comet](https://www.comet.com/site/)
 
-# ✨ Machine Learning Engineering
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/21.png?raw=true)
 
 ## 🔥 ML Engineering GitHub Repos
 
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 
-# ✨ Deep Learning
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/20.png?raw=true)
 
 ## 📕 10 Best Deep Learning Books 
 
@@ -139,7 +139,7 @@ Data science and artificial intelligence have been booming in recent years. This
 
 - [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
 
-# ✨ Natural Language Processing
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/25.png?raw=true)
 
 ## 🔥 GitHub Repos for Learning NLP
 
@@ -154,7 +154,7 @@ Data science and artificial intelligence have been booming in recent years. This
 
 - [Advanced NLP with spaCy](https://course.spacy.io/en)
 
-# ✨ Data Engineering 
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/22.png?raw=true)
 
 ## 🔥 GitHub Repos for Learning Data Engineering
 
@@ -177,13 +177,13 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) is an implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API. The pipeline infrastructure is built using popular, open-source projects.
 - This aim of [this repository](https://github.com/danielbeach/data-engineering-practice) is to help you develop and learn those skills. You can find the high level topics such python data processing, SQL database table design, PySpark, data cleaning.
 
-# ✨ AI
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/24.png?raw=true)
 
 ## 🤖 💯 Free AI Tools
 
 - An AI Research Assistant: [Elicit](https://elicit.org/)
 
-# ✨ SQL
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/23.png?raw=true)
 
 ## 🚩 💯 Best Free Resources for Learning SQL
 
