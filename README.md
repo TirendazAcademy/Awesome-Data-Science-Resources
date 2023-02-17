@@ -38,6 +38,7 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Awesome Pandas](https://github.com/tommyod/awesome-pandas)
 - [Pandas Tutorial](https://github.com/KeithGalli/pandas)
 - [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
+- [Panfas Tutorial Videos](https://github.com/justmarkham/pandas-videos)
 
 ## 🤖 Data Science Tools
 
@@ -45,7 +46,7 @@ Data science and artificial intelligence have been booming in recent years. This
 - [PyCaret](https://github.com/pycaret/pycaret) is an open-source, low-code machine learning library in Python that automates machine learning workflows.
 - [FeatureSelectionGA](https://github.com/kaushalshetty/FeatureSelectionGA) searches for one of the best feature set from other features in order to attain a high accuracy.
 
-## 🔥 Github Repos for Data Science
+## 🔥 Useful Repos
 
 - [Kaggle Courses](https://github.com/drakearch/kaggle-courses)
 - [Pattern Classification](https://github.com/rasbt/pattern_classification) includes tutorials, examples, collections, and everything else that falls into the categories: pattern classification, machine learning, and data mining.
@@ -53,7 +54,7 @@ Data science and artificial intelligence have been booming in recent years. This
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/19.png?raw=true)
 
-## 🔥 Github Repos for ML
+## 🔥 Useful Repos
 
 - [100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) repo includes an excellent 100-day plan for learning ML.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) repo includes a curated list of awesome machine-learning frameworks, libraries, and software (by language).!
