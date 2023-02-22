@@ -6,7 +6,7 @@ Data science and artificial intelligence have been booming in recent years. This
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/18.png?raw=true)
 
-## 📕 💯 Free Books for Data Science
+## Free Books
 
 - [Natural Language Processing with Python](https://nltk.org/book_1ed/) book show how to analyze text with the Natural Language Toolkit.
 - [Think Stats](https://greenteapress.com/wp/think-stats-2e/) book covers many of the core statistical concepts for data science including data analysis, distributions, and probability.
@@ -19,7 +19,7 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Linear Algebra](https://joshua.smcvt.edu/linearalgebra/) book covers the foundational concepts that would usually be covered in a typical undergraduate course.
 - [Introduction to Machine Learning with Python](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view) book focuses on the practical application of machine learning techniques rather than covering the math behind the field.
 
-##  📙 Articles Data Scientists Should Read
+##  Articles
 
 - [Transformers](https://arxiv.org/pdf/1706.03762.pdf) enable the processing of sequences in a parallel method.
 - [BERT](https://arxiv.org/pdf/1810.04805.pdf) is an NLP model based on transformers.
@@ -28,25 +28,25 @@ Data science and artificial intelligence have been booming in recent years. This
 - [The game of Go with deep neural networks](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) paper revealed AlphaGo which defeated the European Go champion by 5 games to 0.
 - [DNN for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) paper mentions the architecture of Deep Learning models used for recommendations on YouTube.
 
-## 💪 Data Science Projects
+## Projects
 
 - [Data Science Projects](https://github.com/veb-101/Data-Science-Projects)
 - [Online Challenge](https://github.com/alexattia/Data-Science-Projects)
 
-## 🚀 Data Libraries Tutorial
+## Libraries
 
 - [Awesome Pandas](https://github.com/tommyod/awesome-pandas)
 - [Pandas Tutorial](https://github.com/KeithGalli/pandas)
 - [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
 - [Panfas Tutorial Videos](https://github.com/justmarkham/pandas-videos)
 
-## 🤖 Data Science Tools
+## Tools
 
 - [lazypredict](https://github.com/shankarpandala/lazypredict) helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
 - [PyCaret](https://github.com/pycaret/pycaret) is an open-source, low-code machine learning library in Python that automates machine learning workflows.
 - [FeatureSelectionGA](https://github.com/kaushalshetty/FeatureSelectionGA) searches for one of the best feature set from other features in order to attain a high accuracy.
 
-## 🔥 Useful Repos
+## Useful Repos
 
 - [Kaggle Courses](https://github.com/drakearch/kaggle-courses)
 - [Pattern Classification](https://github.com/rasbt/pattern_classification) includes tutorials, examples, collections, and everything else that falls into the categories: pattern classification, machine learning, and data mining.
@@ -54,7 +54,7 @@ Data science and artificial intelligence have been booming in recent years. This
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/19.png?raw=true)
 
-## 🔥 Useful Repos
+## Useful Repos
 
 - [100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) repo includes an excellent 100-day plan for learning ML.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) repo includes a curated list of awesome machine-learning frameworks, libraries, and software (by language).!
@@ -64,8 +64,9 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Principles of Machine Learning Python by MicrosoftLearning](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python)
 - [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics)
 - [TOBB ETU Machine Learning Course](https://github.com/bbardakk/TOBB-ETU-YAP470-2022)
+- [DataCamp Notebooks](https://github.com/ozlerhakan/datacamp)
 
-## 📕 💯 Free Books for ML
+## Free Books
 
 - [Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
@@ -74,19 +75,19 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Statistical Learning with Sparsity The Lasso and Generalizations by Trevor Hastie, Robert Tibshirani, Martin Wainwright](http://www.kareemalkaseer.com/books/ml)
 - [ML Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
-## 🚩 Machine Learning Courses
+## Courses
 
 - [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [ML Pipelines on Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
-## 💪 Machine Learning Projects
+## Projects
 
 - [ML projects](https://github.com/cloudxlab/ml)
 - [DataCamp Project Solutions Python](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
 
-## 🙌 Machine Learning Tools
+## Tools
 
 - [PyCaret](https://github.com/pycaret/pycaret)
 - [EvalML](https://github.com/alteryx/evalml)
@@ -98,13 +99,13 @@ Data science and artificial intelligence have been booming in recent years. This
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/21.png?raw=true)
 
-## 🔥 ML Engineering GitHub Repos
+## Repos
 
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/20.png?raw=true)
 
-## 📕 10 Best Deep Learning Books 
+## Books 
 
 - [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 - [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
@@ -117,13 +118,13 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Deep Learning with TensorFlow and Keras](https://www.amazon.com/Deep-Learning-TensorFlow-Keras-reinforcement/dp/1803232919)
 - [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 
-## 🚩 💯 Free Deep Learning Courses
+## Courses
 
 - [Practical Deep Learning](https://course.fast.ai/)
 - [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - [Neuromatch deep learning course](https://deeplearning.neuromatch.io/tutorials/intro.html)
 
-## 🙌 Deep Learning Frameworks
+## Frameworks
 
 - [TensorFlow](https://www.tensorflow.org/tutorials)
 - [Keras](https://keras.io/)
@@ -132,17 +133,17 @@ Data science and artificial intelligence have been booming in recent years. This
 - [FastAI](https://docs.fast.ai/)
 - [Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/)
 
-# 🔥 GitHub Repos for Deep Learning
+# GitHub Repos
 
 - [FastAI Course](https://github.com/fastai/courses)
 
-## 😍 Stable Diffusion Examples
+## Stable Diffusion Examples
 
 - [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/25.png?raw=true)
 
-## 🔥 GitHub Repos for Learning NLP
+## GitHub Repos
 
 - [Natural Language Processing Tutorial](https://github.com/graykode/nlp-tutorial) is a tutorial for those who are studying NLP using Pytorch.
 - [NLP Recipes](https://github.com/microsoft/nlp-recipes) repo contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions.
@@ -151,13 +152,13 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Awesome NLP](https://github.com/keon/awesome-nlp) repo contains a curated list of resources dedicated to Natural Language Processing.
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) is an organized website where you can find all the free courses from Top Universities with their links.
 
-## 🚩 Courses for NLP
+## Courses
 
 - [Advanced NLP with spaCy](https://course.spacy.io/en)
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/22.png?raw=true)
 
-## 🔥 GitHub Repos for Learning Data Engineering
+## Repos
 
 - [The Data Engineering Cookbook](https://github.com/oleg-agapov/data-engineering-book) repo aims to be a starting point for those who want to become data engineers.
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) repo helps you learn data engineering step by step with slides and videos.
@@ -168,7 +169,7 @@ Data science and artificial intelligence have been booming in recent years. This
 
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
-## 💪 Data Engineering Projects
+## Projects
 
 - [HashtagCashtag](https://github.com/shafiab/HashtagCashtag) shows how to build a big data pipeline for user sentiment analysis on the US stock market.
 - [Building a Data Engineering Project in 20 Minutes](https://github.com/sspaeti-com/practical-data-engineering) learns web scraping with real-estates, uploading them to S3, Spark, and Delta Lake, and adding Data Science with Jupyter.
@@ -180,13 +181,13 @@ Data science and artificial intelligence have been booming in recent years. This
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/24.png?raw=true)
 
-## 🤖 💯 Free AI Tools
+## AI Tools
 
 - An AI Research Assistant: [Elicit](https://elicit.org/)
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/23.png?raw=true)
 
-## 🚩 💯 Best Free Resources for Learning SQL
+## Free Resources
 
 - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) is an interactive, Wiki-based tutorial that provides lessons and projects for beginners in SQL.
 - [SQLBolt](https://sqlbolt.com) offers easy-to-follow instructions, a simple interface, and interactive exercises to teach basic proficiency in SQL.
@@ -197,11 +198,11 @@ Data science and artificial intelligence have been booming in recent years. This
 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) includes video-based content with detailed explanations
 
-## 💪 SQL Projects
+## Projects
 
 - [Data Analysis Projects](https://github.com/codebasics/DataAnalysisProjects)
 
-# 💹 DataSets
+# DataSets
 
 - [A dataset with political datasets](https://github.com/erikgahner/PolData)
 
