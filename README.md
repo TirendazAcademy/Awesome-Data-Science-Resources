@@ -38,7 +38,7 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Awesome Pandas](https://github.com/tommyod/awesome-pandas)
 - [Pandas Tutorial](https://github.com/KeithGalli/pandas)
 - [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
-- [Panfas Tutorial Videos](https://github.com/justmarkham/pandas-videos)
+- [Pandas Tutorial Videos](https://github.com/justmarkham/pandas-videos)
 
 ## Tools
 
@@ -51,6 +51,7 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Kaggle Courses](https://github.com/drakearch/kaggle-courses)
 - [Pattern Classification](https://github.com/rasbt/pattern_classification) includes tutorials, examples, collections, and everything else that falls into the categories: pattern classification, machine learning, and data mining.
 - [Feature Selector: Simple Feature Selection in Python](https://github.com/WillKoehrsen/feature-selector)
+- [Scikit Learn Mooc](https://inria.github.io/scikit-learn-mooc/index.html) The goal of this course is to teach machine learning with scikit-learn to beginners, even without a strong technical background.
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/19.png?raw=true)
 
