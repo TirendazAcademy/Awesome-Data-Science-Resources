@@ -191,7 +191,6 @@ If you like this repo, don't forget to star it ✨
 - [Udacity Data Engineering Projects](https://github.com/san089/Udacity-Data-Engineering-Projects) repo includes data engineering projects.
 - [Data Engineering Practice](https://github.com/danielbeach/data-engineering-practice) repo helps you develop and learn data engineering skills.
 - [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) is a this that aims at providing an overview of open-source projects related to data engineering. 
-
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 ## Projects
