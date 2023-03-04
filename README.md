@@ -129,8 +129,8 @@ If you like this repo, don't forget to star it ✨
 
 ## YouTube
 
--[Python Machine Learning Tutorial](https://youtu.be/7eh4d6sabA0)
--[Reinforcement Learning](https://youtu.be/Mut_u40Sqz4)
+- [Python Machine Learning Tutorial](https://youtu.be/7eh4d6sabA0)
+- [Reinforcement Learning](https://youtu.be/Mut_u40Sqz4)
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Deep-Learning.png)
 
@@ -172,10 +172,10 @@ If you like this repo, don't forget to star it ✨
 
 ## YouTube
 
--[PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA)
--[PyTorch Crash Course](https://youtu.be/OIenNRt2bjg)
--[Object Detection](https://youtu.be/yqkISICHH-U)
--[Deep Learning with PyTorch](https://youtu.be/c36lUUr864M)
+- [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA)
+- [PyTorch Crash Course](https://youtu.be/OIenNRt2bjg)
+- [Object Detection](https://youtu.be/yqkISICHH-U)
+- [Deep Learning with PyTorch](https://youtu.be/c36lUUr864M)
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/NLP.png)
 
