@@ -97,7 +97,7 @@ Data science and artificial intelligence have been booming in recent years. This
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/21.png?raw=true)
 
-## Repos
+## Useful Repos
 
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 
@@ -136,7 +136,7 @@ Data science and artificial intelligence have been booming in recent years. This
 - [FastAI](https://docs.fast.ai/)
 - [Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/)
 
-# GitHub Repos
+## Repos
 
 - [FastAI Course](https://github.com/fastai/courses)
 
@@ -146,7 +146,7 @@ Data science and artificial intelligence have been booming in recent years. This
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/25.png?raw=true)
 
-## GitHub Repos
+## Repos
 
 - [Natural Language Processing Tutorial](https://github.com/graykode/nlp-tutorial) is a tutorial for those who are studying NLP using Pytorch.
 - [NLP Recipes](https://github.com/microsoft/nlp-recipes) repo contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions.
