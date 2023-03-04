@@ -52,7 +52,7 @@ If you like this repo, don't forget to star it ✨
 - [Data Science Projects](https://github.com/veb-101/Data-Science-Projects)
 - [Online Challenge](https://github.com/alexattia/Data-Science-Projects)
 
-## Libraries
+## Repos Related to Libraries
 
 - [Awesome Pandas](https://github.com/tommyod/awesome-pandas)
 - [Pandas Tutorial](https://github.com/KeithGalli/pandas)
