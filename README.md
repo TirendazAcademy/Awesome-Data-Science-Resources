@@ -2,7 +2,26 @@
 
 ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Banner.png?raw=true)
 
-Data science and artificial intelligence have been booming in recent years. This repo contains resources on data scince, AI, machine learning, deep learning, data engineering and SQL. If you like this repo, don't forget to star it ✨
+Are you interested in the world of data science? Do you want to stay up-to-date with the latest tools, techniques, and trends? Look no further than this repository!
+
+Our goal is to provide a comprehensive and curated list of resources for all aspects of data science, from beginner to expert. We cover a wide range of topics, including data visualization, machine learning, deep learning natural language processing, big data, and much more.
+
+Our list includes a variety of formats, such as tutorials, courses, books, blogs, podcasts, and datasets. We also organize our resources into categories, making it easy to find what you need. Some of our categories include:
+
+- Data science
+- Machine learning
+- ML Engineering
+- Deep Learning
+- Data engineering
+- SQL
+
+But that's not all! We also have subcategories for specific topics within each category, such as image classification in machine learning or sentiment analysis in NLP.
+
+Our community is constantly updating and improving this repository, so we encourage you to contribute your own resources and suggestions. We believe that data science should be accessible to everyone, so we prioritize free and open-source resources wherever possible.
+
+So what are you waiting for? Explore the world of data science with us and become an expert in this exciting field! 
+
+If you like this repo, don't forget to star it ✨
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/18.png?raw=true)
 
@@ -45,6 +64,7 @@ Data science and artificial intelligence have been booming in recent years. This
 - [lazypredict](https://github.com/shankarpandala/lazypredict) helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
 - [PyCaret](https://github.com/pycaret/pycaret) is an open-source, low-code machine learning library in Python that automates machine learning workflows.
 - [FeatureSelectionGA](https://github.com/kaushalshetty/FeatureSelectionGA) searches for one of the best feature set from other features in order to attain a high accuracy.
+- An AI Research Assistant: [Elicit](https://elicit.org/)
 
 ## Useful Repos
 
@@ -52,6 +72,10 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Pattern Classification](https://github.com/rasbt/pattern_classification) includes tutorials, examples, collections, and everything else that falls into the categories: pattern classification, machine learning, and data mining.
 - [Feature Selector: Simple Feature Selection in Python](https://github.com/WillKoehrsen/feature-selector)
 - [Scikit Learn Mooc](https://inria.github.io/scikit-learn-mooc/index.html) The goal of this course is to teach machine learning with scikit-learn to beginners, even without a strong technical background.
+
+## DataSets
+
+- [A dataset with political datasets](https://github.com/erikgahner/PolData)
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/19.png?raw=true)
 
@@ -182,12 +206,6 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) is an implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API. The pipeline infrastructure is built using popular, open-source projects.
 - This aim of [this repository](https://github.com/danielbeach/data-engineering-practice) is to help you develop and learn those skills. You can find the high level topics such python data processing, SQL database table design, PySpark, data cleaning.
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/24.png?raw=true)
-
-## AI Tools
-
-- An AI Research Assistant: [Elicit](https://elicit.org/)
-
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/23.png?raw=true)
 
 ## Free Resources
@@ -204,10 +222,6 @@ Data science and artificial intelligence have been booming in recent years. This
 ## Projects
 
 - [Data Analysis Projects](https://github.com/codebasics/DataAnalysisProjects)
-
-# DataSets
-
-- [A dataset with political datasets](https://github.com/erikgahner/PolData)
 
 ---
 
