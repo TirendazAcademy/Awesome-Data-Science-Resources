@@ -73,8 +73,9 @@ Data science and artificial intelligence have been booming in recent years. This
 - [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 - [Think Bayes by Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
 - [Machine Learning & Big Data by Kareem Alkaseer](http://www.kareemalkaseer.com/books/ml)
-- [Statistical Learning with Sparsity The Lasso and Generalizations by Trevor Hastie, Robert Tibshirani, Martin Wainwright](http://www.kareemalkaseer.com/books/ml)
+- [Statistical Learning with Sparsity The Lasso and Generalizations by Trevor Hastie](http://www.kareemalkaseer.com/books/ml)
 - [ML Interviews Book](https://huyenchip.com/ml-interviews-book/)
+- [Machine Learning Simplified](https://themlsbook.com/)
 
 ## Courses
 
