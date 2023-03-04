@@ -10,8 +10,8 @@ Our list includes a variety of formats, such as tutorials, courses, books, blogs
 
 - Data science
 - Machine learning
-- ML Engineering
-- Deep Learning
+- ML engineering
+- Deep learning
 - Data engineering
 - SQL
 
