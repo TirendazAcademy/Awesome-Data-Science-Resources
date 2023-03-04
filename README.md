@@ -15,8 +15,6 @@ Our list includes a variety of formats, such as tutorials, courses, books, blogs
 - Data engineering
 - SQL
 
-But that's not all! We also have subcategories for specific topics within each category, such as image classification in machine learning or sentiment analysis in NLP.
-
 Our community is constantly updating and improving this repository, so we encourage you to contribute your own resources and suggestions. We believe that data science should be accessible to everyone, so we prioritize free and open-source resources wherever possible.
 
 So what are you waiting for? Explore the world of data science with us and become an expert in this exciting field! 
