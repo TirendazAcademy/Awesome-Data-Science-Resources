@@ -55,18 +55,6 @@ Data science and artificial intelligence have been booming in recent years. This
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/19.png?raw=true)
 
-## Useful Repos
-
-- [100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) repo includes an excellent 100-day plan for learning ML.
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) repo includes a curated list of awesome machine-learning frameworks, libraries, and software (by language).!
-- [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning) repo contains a list of programming tutorials where aspiring software developers learn how to build an application from scratch.
-- [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) repo contains examples of popular machine learning algorithms implemented in Python and explains the math behind them.
-- [500 AI & Machine-learning Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) repo contains 500 AI, machine learning, deep learning, computer vision, and NLP projects with code.
-- [Principles of Machine Learning Python by MicrosoftLearning](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python)
-- [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics)
-- [TOBB ETU Machine Learning Course](https://github.com/bbardakk/TOBB-ETU-YAP470-2022)
-- [DataCamp Notebooks](https://github.com/ozlerhakan/datacamp)
-
 ## Free Books
 
 - [Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -84,6 +72,19 @@ Data science and artificial intelligence have been booming in recent years. This
 - [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [ML Pipelines on Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
+## Useful Repos
+
+- [100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) repo includes an excellent 100-day plan for learning ML.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) repo includes a curated list of awesome machine-learning frameworks, libraries, and software (by language).!
+- [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning) repo contains a list of programming tutorials where aspiring software developers learn how to build an application from scratch.
+- [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) repo contains examples of popular machine learning algorithms implemented in Python and explains the math behind them.
+- [500 AI & Machine-learning Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) repo contains 500 AI, machine learning, deep learning, computer vision, and NLP projects with code.
+- [Principles of Machine Learning Python by MicrosoftLearning](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python)
+- [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics)
+- [TOBB ETU Machine Learning Course](https://github.com/bbardakk/TOBB-ETU-YAP470-2022)
+- [DataCamp Notebooks](https://github.com/ozlerhakan/datacamp)
+
+
 ## Projects
 
 - [ML projects](https://github.com/cloudxlab/ml)
@@ -94,16 +95,16 @@ Data science and artificial intelligence have been booming in recent years. This
 - [PyCaret](https://github.com/pycaret/pycaret)
 - [EvalML](https://github.com/alteryx/evalml)
 
-## MLOps Tools
-
-- [MLflow](https://mlflow.org/)
-- [Comet](https://www.comet.com/site/)
-
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/21.png?raw=true)
 
 ## Repos
 
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+
+## MLOps Tools
+
+- [MLflow](https://mlflow.org/)
+- [Comet](https://www.comet.com/site/)
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/20.png?raw=true)
 
