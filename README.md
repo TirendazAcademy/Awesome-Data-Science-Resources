@@ -23,7 +23,7 @@ So what are you waiting for? Explore the world of data science with us and becom
 
 If you like this repo, don't forget to star it ✨
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/18.png?raw=true)
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Data-Science.png)
 
 ## Free Books
 
@@ -77,7 +77,7 @@ If you like this repo, don't forget to star it ✨
 
 - [A dataset with political datasets](https://github.com/erikgahner/PolData)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/19.png?raw=true)
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Machine-Learning.png)
 
 ## Free Books
 
@@ -119,7 +119,7 @@ If you like this repo, don't forget to star it ✨
 - [PyCaret](https://github.com/pycaret/pycaret)
 - [EvalML](https://github.com/alteryx/evalml)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/21.png?raw=true)
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/ML-Engineering.png)
 
 ## Useful Repos
 
@@ -130,7 +130,7 @@ If you like this repo, don't forget to star it ✨
 - [MLflow](https://mlflow.org/)
 - [Comet](https://www.comet.com/site/)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/20.png?raw=true)
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Deep-Learning.png)
 
 ## Books 
 
@@ -168,7 +168,7 @@ If you like this repo, don't forget to star it ✨
 
 - [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/25.png?raw=true)
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/NLP.png)
 
 ## Repos
 
@@ -183,7 +183,7 @@ If you like this repo, don't forget to star it ✨
 
 - [Advanced NLP with spaCy](https://course.spacy.io/en)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/22.png?raw=true)
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Data-Engineering.png)
 
 ## Repos
 
@@ -206,7 +206,7 @@ If you like this repo, don't forget to star it ✨
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) is an implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API. The pipeline infrastructure is built using popular, open-source projects.
 - This aim of [this repository](https://github.com/danielbeach/data-engineering-practice) is to help you develop and learn those skills. You can find the high level topics such python data processing, SQL database table design, PySpark, data cleaning.
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/23.png?raw=true)
+# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/SQL.png)
 
 ## Free Resources
 
@@ -216,7 +216,6 @@ If you like this repo, don't forget to star it ✨
 - [CodeAcademy](https://join.codecademy.com/learn/learn-sql/) teaches you how to communicate with relational databases through SQL.
 - [Pop SQL](https://popsql.com/learn-sql) allows you to share queries, store commonly used queries in a searchable library, and provides a visual interface for analysis.
 - [Learning SQL book](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) is for you if you like to learn with a book. This book is available to read for free online via this PDF.
-
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) includes video-based content with detailed explanations
 
 ## Projects
