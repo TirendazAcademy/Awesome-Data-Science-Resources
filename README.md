@@ -20,7 +20,7 @@ Our community is constantly updating and improving this repository, so we encour
 
 So what are you waiting for? Explore the world of data science with us and become an expert in this exciting field! 
 
-If you like this repo, don't forget to star it ✨
+If you like this repo, don't forget to star it ✨ Let's dive in!
 
 # ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Data-Science.png)
 
