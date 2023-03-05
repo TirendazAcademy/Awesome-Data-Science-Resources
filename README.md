@@ -4,16 +4,17 @@
 
 Are you interested in the world of data science? Do you want to stay up-to-date with the latest tools, techniques, and trends? If your answer is yes, this repo is for you.
 
-Our goal is to provide a comprehensive and curated list of resources for all aspects of data science, from beginner to expert. We cover a wide range of topics, including data visualization, machine learning, deep learning natural language processing, big data, and much more.
-
-Our list includes a variety of formats, such as tutorials, courses, books, blogs, podcasts, and datasets. We also organize our resources into categories, making it easy to find what you need. Some of our categories include:
+Our goal is to provide a comprehensive and curated list of resources for all aspects of data science, from beginner to expert.  Some of our categories include:
 
 - Data science
 - Machine learning
 - ML engineering
 - Deep learning
+- NLP
 - Data engineering
 - SQL
+
+Our list includes a variety of formats, such as tutorials, courses, tools, books, blogs, articles, and datasets. We also organize our resources into categories, making it easy to find what you need.
 
 Our community is constantly updating and improving this repository, so we encourage you to contribute your own resources and suggestions. We believe that data science should be accessible to everyone, so we prioritize free and open-source resources wherever possible.
 
