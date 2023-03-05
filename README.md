@@ -2,7 +2,7 @@
 
 ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Banner.png?raw=true)
 
-Are you interested in the world of data science? Do you want to stay up-to-date with the latest tools, techniques, and trends? This repo is for you.
+Are you interested in the world of data science? Do you want to stay up-to-date with the latest tools, techniques, and trends? If yes then This repo is for you.
 
 Our goal is to provide a comprehensive and curated list of resources for all aspects of data science, from beginner to expert. We cover a wide range of topics, including data visualization, machine learning, deep learning natural language processing, big data, and much more.
 
