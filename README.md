@@ -71,6 +71,7 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Pattern Classification](https://github.com/rasbt/pattern_classification) includes tutorials, examples, collections, and everything else that falls into the categories: pattern classification, machine learning, and data mining.
 - [Feature Selector: Simple Feature Selection in Python](https://github.com/WillKoehrsen/feature-selector)
 - [Scikit Learn Mooc](https://inria.github.io/scikit-learn-mooc/index.html) The goal of this course is to teach machine learning with scikit-learn to beginners, even without a strong technical background.
+- [Hands-on Machine Learning & Deep Learning ](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)
 
 ## DataSets
 
