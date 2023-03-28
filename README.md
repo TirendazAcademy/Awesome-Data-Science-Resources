@@ -112,6 +112,7 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 
 - [ML projects](https://github.com/cloudxlab/ml)
 - [DataCamp Project Solutions Python](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
+- [Machine Learning Projects](https://github.com/ASHOKKUMAR-K/Machine-Learning-Projects)
 
 ## Tools
 
