@@ -98,6 +98,7 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 
 ## Useful Repos
 
+- [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning
 - [100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) repo includes an excellent 100-day plan for learning ML.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) repo includes a curated list of awesome machine-learning frameworks, libraries, and software (by language).!
 - [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning) repo contains a list of programming tutorials where aspiring software developers learn how to build an application from scratch.
@@ -107,6 +108,7 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics)
 - [TOBB ETU Machine Learning Course](https://github.com/bbardakk/TOBB-ETU-YAP470-2022)
 - [DataCamp Notebooks](https://github.com/ozlerhakan/datacamp)
+
 
 ## Projects
 
