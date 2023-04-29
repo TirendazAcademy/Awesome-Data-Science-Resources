@@ -170,6 +170,7 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 ## Repos
 
 - [FastAI Course](https://github.com/fastai/courses)
+- [Computer Vision](https://github.com/sindresorhus/awesome#computer-science)
 
 ## Stable Diffusion Examples
 
