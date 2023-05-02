@@ -2,29 +2,23 @@
 
 ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Banner.png?raw=true)
 
-Are you interested in the world of data science? Do you want to stay up-to-date with the latest tools, techniques, and trends? If your answer is yes, this repo is for you.
+Table of contents:
 
-Our goal is to provide a comprehensive and curated list of resources for all aspects of data science, from beginner to expert.  Some of our categories include:
+- [Data science](#data-science)
+- [Machine learning](#machine-learning)
+- [ML engineering](#ml-engineering)
+- [Deep learning](#deep-learning)
+- [NLP](#data-science)
+- [Data engineering](#data-engineering)
+- [SQL](#sql)
 
-- Data science
-- Machine learning
-- ML engineering
-- Deep learning
-- NLP
-- Data engineering
-- SQL
+If you like this repo, give us a ⭐
 
-Our list includes a variety of formats, such as tutorials, courses, tools, books, blogs, articles, and datasets. We also organize our resources into categories, making it easy to find what you need.
+<a id='data-science'></a>
+# 🚀 DATA SCIENCE
+![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Data-Science.png)
 
-Our community is constantly updating and improving this repository, so we encourage you to contribute your own resources and suggestions. We believe that data science should be accessible to everyone, so we prioritize free and open-source resources wherever possible.
-
-So what are you waiting for? Explore the world of data science with us and become an expert in this exciting field! 
-
-If you like this repo, don't forget to star it ✨ Let's dive in!
-
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Data-Science.png)
-
-## Free Books
+### Free Books
 
 - [Natural Language Processing with Python](https://nltk.org/book_1ed/) book show how to analyze text with the Natural Language Toolkit.
 - [Think Stats](https://greenteapress.com/wp/think-stats-2e/) book covers many of the core statistical concepts for data science including data analysis, distributions, and probability.
@@ -37,7 +31,7 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Linear Algebra](https://joshua.smcvt.edu/linearalgebra/) book covers the foundational concepts that would usually be covered in a typical undergraduate course.
 - [Introduction to Machine Learning with Python](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view) book focuses on the practical application of machine learning techniques rather than covering the math behind the field.
 
-##  Articles
+###  Articles
 
 - [Transformers](https://arxiv.org/pdf/1706.03762.pdf) enable the processing of sequences in a parallel method.
 - [BERT](https://arxiv.org/pdf/1810.04805.pdf) is an NLP model based on transformers.
@@ -46,26 +40,26 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [The game of Go with deep neural networks](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) paper revealed AlphaGo which defeated the European Go champion by 5 games to 0.
 - [DNN for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) paper mentions the architecture of Deep Learning models used for recommendations on YouTube.
 
-## Projects
+### Projects
 
 - [Data Science Projects](https://github.com/veb-101/Data-Science-Projects)
 - [Online Challenge](https://github.com/alexattia/Data-Science-Projects)
 
-## Repos Related to Libraries
+### Repos Related to Libraries
 
 - [Awesome Pandas](https://github.com/tommyod/awesome-pandas)
 - [Pandas Tutorial](https://github.com/KeithGalli/pandas)
 - [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
 - [Pandas Tutorial Videos](https://github.com/justmarkham/pandas-videos)
 
-## Tools
+### Tools
 
 - [lazypredict](https://github.com/shankarpandala/lazypredict) helps build a lot of basic models without much code and helps understand which models works better without any parameter tuning.
 - [PyCaret](https://github.com/pycaret/pycaret) is an open-source, low-code machine learning library in Python that automates machine learning workflows.
 - [FeatureSelectionGA](https://github.com/kaushalshetty/FeatureSelectionGA) searches for one of the best feature set from other features in order to attain a high accuracy.
 - An AI Research Assistant: [Elicit](https://elicit.org/)
 
-## Useful Repos
+### Useful Repos
 
 - [Kaggle Courses](https://github.com/drakearch/kaggle-courses)
 - [Pattern Classification](https://github.com/rasbt/pattern_classification) includes tutorials, examples, collections, and everything else that falls into the categories: pattern classification, machine learning, and data mining.
@@ -73,13 +67,15 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Scikit Learn Mooc](https://inria.github.io/scikit-learn-mooc/index.html) The goal of this course is to teach machine learning with scikit-learn to beginners, even without a strong technical background.
 - [Hands-on Machine Learning & Deep Learning ](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)
 
-## DataSets
+### DataSets
 
 - [A dataset with political datasets](https://github.com/erikgahner/PolData)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Machine-Learning.png)
+<a id='machine-learning'></a>
+# 🚀 MACHINE LEARNING
+![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Machine-Learning.png)
 
-## Free Books
+### Free Books
 
 - [Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
@@ -89,14 +85,14 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [ML Interviews Book](https://huyenchip.com/ml-interviews-book/)
 - [Machine Learning Simplified](https://themlsbook.com/)
 
-## Courses
+### Courses
 
 - [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [ML Pipelines on Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
-## Useful Repos
+### Useful Repos
 
 - [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning
 - [100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) repo includes an excellent 100-day plan for learning ML.
@@ -111,36 +107,40 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide) A guide covering Machine Learning including the applications, libraries and tools.
 
 
-## Projects
+### Projects
 
 - [ML projects](https://github.com/cloudxlab/ml)
 - [DataCamp Project Solutions Python](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
 - [Machine Learning Projects](https://github.com/ASHOKKUMAR-K/Machine-Learning-Projects)
 
-## Tools
+### Tools
 
 - [PyCaret](https://github.com/pycaret/pycaret)
 - [EvalML](https://github.com/alteryx/evalml)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/ML-Engineering.png)
+<a id='ml-engineering'></a>
+# 🚀 ML ENGINEERING
+![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/ML-Engineering.png)
 
-## Useful Repos
+### Useful Repos
 
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 
-## MLOps Tools
+### MLOps Tools
 
 - [MLflow](https://mlflow.org/)
 - [Comet](https://www.comet.com/site/)
 
-## YouTube
+### YouTube
 
 - [Python Machine Learning Tutorial](https://youtu.be/7eh4d6sabA0)
 - [Reinforcement Learning](https://youtu.be/Mut_u40Sqz4)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Deep-Learning.png)
+<a id='deep-learning'></a>
+# DEEP LEARNING
+![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Deep-Learning.png)
 
-## Books 
+### Books 
 
 - [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 - [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
@@ -153,13 +153,13 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Deep Learning with TensorFlow and Keras](https://www.amazon.com/Deep-Learning-TensorFlow-Keras-reinforcement/dp/1803232919)
 - [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 
-## Courses
+### Courses
 
 - [Practical Deep Learning](https://course.fast.ai/)
 - [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - [Neuromatch deep learning course](https://deeplearning.neuromatch.io/tutorials/intro.html)
 
-## Frameworks
+### Frameworks
 
 - [TensorFlow](https://www.tensorflow.org/tutorials)
 - [Keras](https://keras.io/)
@@ -168,25 +168,27 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [FastAI](https://docs.fast.ai/)
 - [Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/)
 
-## Repos
+### Repos
 
 - [FastAI Course](https://github.com/fastai/courses)
 - [Computer Vision](https://github.com/sindresorhus/awesome#computer-science)
 
-## Stable Diffusion Examples
+### Stable Diffusion Examples
 
 - [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
 
-## YouTube
+### YouTube
 
 - [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA)
 - [PyTorch Crash Course](https://youtu.be/OIenNRt2bjg)
 - [Object Detection](https://youtu.be/yqkISICHH-U)
 - [Deep Learning with PyTorch](https://youtu.be/c36lUUr864M)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/NLP.png)
+<a id='nlp'></a>
+# 🚀 NLP
+![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/NLP.png)
 
-## Repos
+### Repos
 
 - [Natural Language Processing Tutorial](https://github.com/graykode/nlp-tutorial) is a tutorial for those who are studying NLP using Pytorch.
 - [NLP Recipes](https://github.com/microsoft/nlp-recipes) repo contains examples and best practices for building NLP systems, provided as Jupyter notebooks and utility functions.
@@ -195,13 +197,15 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Awesome NLP](https://github.com/keon/awesome-nlp) repo contains a curated list of resources dedicated to Natural Language Processing.
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) is an organized website where you can find all the free courses from Top Universities with their links.
 
-## Courses
+### Courses
 
 - [Advanced NLP with spaCy](https://course.spacy.io/en)
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Data-Engineering.png)
+<a id='data-engineering'></a>
+# 🚀 DATA ENGINEERING
+![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Data-Engineering.png)
 
-## Repos
+### Repos
 
 - [The Data Engineering Cookbook](https://github.com/oleg-agapov/data-engineering-book) repo aims to be a starting point for those who want to become data engineers.
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) repo helps you learn data engineering step by step with slides and videos.
@@ -211,7 +215,7 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) is a this that aims at providing an overview of open-source projects related to data engineering. 
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
-## Projects
+### Projects
 
 - [HashtagCashtag](https://github.com/shafiab/HashtagCashtag) shows how to build a big data pipeline for user sentiment analysis on the US stock market.
 - [Building a Data Engineering Project in 20 Minutes](https://github.com/sspaeti-com/practical-data-engineering) learns web scraping with real-estates, uploading them to S3, Spark, and Delta Lake, and adding Data Science with Jupyter.
@@ -221,9 +225,12 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) is an implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API. The pipeline infrastructure is built using popular, open-source projects.
 - This aim of [this repository](https://github.com/danielbeach/data-engineering-practice) is to help you develop and learn those skills. You can find the high level topics such python data processing, SQL database table design, PySpark, data cleaning.
 
-# ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/SQL.png)
 
-## Free Resources
+<a id='sql'></a>
+# 🚀 SQL
+![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/SQL.png)
+
+### Free Resources
 
 - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) is an interactive, Wiki-based tutorial that provides lessons and projects for beginners in SQL.
 - [SQLBolt](https://sqlbolt.com) offers easy-to-follow instructions, a simple interface, and interactive exercises to teach basic proficiency in SQL.
@@ -233,15 +240,15 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Learning SQL book](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) is for you if you like to learn with a book. This book is available to read for free online via this PDF.
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) includes video-based content with detailed explanations
 
-## Projects
+### Projects
 
 - [Data Analysis Projects](https://github.com/codebasics/DataAnalysisProjects)
 
 ---
 
-😍 I'll update this repo once I find new sources so don't forget to watch this repo. If you enjoy this repo, give me star and share.
+🚀 We'll update this repo once I find new sources so don't forget to watch this repo. If you enjoy this repo, give us a ⭐ and share 🙏
 
-👍 Let's connect! [YouTube](https://www.youtube.com/c/tirendazacademy) | [Medium](https://tirendazacademy.medium.com) | [Twitter](https://twitter.com/TirendazAcademy) | [Instagram](https://www.instagram.com/tirendazacademy) | [Tiktok](https://www.tiktok.com/@tirendazacademy) | [Reddit](https://www.reddit.com/user/TirendazAcademy) 
+🔗 Let's connect! [YouTube](https://www.youtube.com/c/tirendazacademy) | [Medium](https://tirendazacademy.medium.com) | [Twitter](https://twitter.com/TirendazAcademy) | [Instagram](https://www.instagram.com/tirendazacademy) | [Tiktok](https://www.tiktok.com/@tirendazacademy) | [Reddit](https://www.reddit.com/user/TirendazAcademy) 
 
 
 
