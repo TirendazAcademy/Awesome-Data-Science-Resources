@@ -108,6 +108,7 @@ If you like this repo, don't forget to star it ✨ Let's dive in!
 - [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics)
 - [TOBB ETU Machine Learning Course](https://github.com/bbardakk/TOBB-ETU-YAP470-2022)
 - [DataCamp Notebooks](https://github.com/ozlerhakan/datacamp)
+- [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide) A guide covering Machine Learning including the applications, libraries and tools.
 
 
 ## Projects
