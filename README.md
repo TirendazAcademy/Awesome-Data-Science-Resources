@@ -44,8 +44,9 @@ If you like this repo, give us a ⭐
 
 ### Projects
 
-- [Data Science Projects](https://github.com/veb-101/Data-Science-Projects)
+- [Different project topics for learning purposes](https://github.com/veb-101/Data-Science-Projects)
 - [Online Challenge](https://github.com/alexattia/Data-Science-Projects)
+- [Data Science challenges are made on Kaggle using Python](https://github.com/alexattia/Data-Science-Projects)
 
 ### Repos Related to Libraries
 
@@ -227,6 +228,10 @@ If you like this repo, give us a ⭐
 - [This repo](https://github.com/alanchn31/Data-Engineering-Projects) 
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) 
 - [Data Engineering Practice](https://github.com/danielbeach/data-engineering-practice)  
+
+### LLMs
+
+- [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 
 <a id='sql'></a>
 # 🚀 SQL
