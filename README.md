@@ -205,6 +205,10 @@ If you like this repo, give us a ⭐
 
 - [Advanced NLP with spaCy](https://course.spacy.io/en)
 
+### LLMs
+
+- [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
+
 <a id='data-engineering'></a>
 # 🚀 DATA ENGINEERING
 ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Data-Engineering.png)
@@ -228,10 +232,6 @@ If you like this repo, give us a ⭐
 - [This repo](https://github.com/alanchn31/Data-Engineering-Projects) 
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) 
 - [Data Engineering Practice](https://github.com/danielbeach/data-engineering-practice)  
-
-### LLMs
-
-- [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 
 <a id='sql'></a>
 # 🚀 SQL
