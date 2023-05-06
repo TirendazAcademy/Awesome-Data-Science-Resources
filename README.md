@@ -109,6 +109,7 @@ If you like this repo, give us a ⭐
 - [TOBB ETU Machine Learning Course](https://github.com/bbardakk/TOBB-ETU-YAP470-2022)
 - [DataCamp Notebooks](https://github.com/ozlerhakan/datacamp)
 - [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)
+- [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 
 
 ### Projects
