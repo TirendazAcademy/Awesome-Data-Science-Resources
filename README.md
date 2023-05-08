@@ -45,8 +45,9 @@ If you like this repo, give us a ⭐
 ### Projects
 
 - [Different project topics for learning purposes](https://github.com/veb-101/Data-Science-Projects)
-- [Online Challenge](https://github.com/alexattia/Data-Science-Projects)
-- [Data Science challenges are made on Kaggle using Python](https://github.com/alexattia/Data-Science-Projects)
+- [Online challenge](https://github.com/alexattia/Data-Science-Projects)
+- [Data science challenges are made on Kaggle using Python](https://github.com/alexattia/Data-Science-Projects)
+- [Data science projects](https://github.com/hyunjoonbok/Python-Projects)
 
 ### Repos Related to Libraries
 
