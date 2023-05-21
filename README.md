@@ -182,6 +182,7 @@ If you like this repo, give us a ⭐
 
 - [FastAI Course](https://github.com/fastai/courses)
 - [Computer Vision](https://github.com/sindresorhus/awesome#computer-science)
+- [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 
 ### Stable Diffusion Examples
 
