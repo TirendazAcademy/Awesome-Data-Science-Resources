@@ -76,6 +76,10 @@ If you like this repo, give us a ⭐
 
 - [A dataset with political datasets](https://github.com/erikgahner/PolData)
 
+### Blogs
+
+- [Aman.ai-exploring the art of AI](https://aman.ai/)
+
 <a id='machine-learning'></a>
 # 🚀 MACHINE LEARNING
 ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Machine-Learning.png)
