@@ -79,6 +79,7 @@ If you like this repo, give us a ⭐
 ### Blogs
 
 - [Aman.ai-exploring the art of AI](https://aman.ai/)
+- [Papers with code](https://paperswithcode.com/)
 
 <a id='machine-learning'></a>
 # 🚀 MACHINE LEARNING
