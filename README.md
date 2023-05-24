@@ -184,7 +184,8 @@ If you like this repo, give us a ⭐
 - [FastAI Course](https://github.com/fastai/courses)
 - [Computer Vision](https://github.com/sindresorhus/awesome#computer-science)
 - [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
-- [AI Courses](https://github.com/SkalskiP/courses)
+- [Awesome AI Courses](https://github.com/SkalskiP/courses)
+- [Awesome-Langchain](https://github.com/kyrolabs/awesome-langchain)
 
 ### Stable Diffusion Examples
 
