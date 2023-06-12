@@ -218,6 +218,7 @@ If you like this repo, give us a ⭐
 ### LLMs
 
 - [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
+- [Overview - Tutorial - Examples of LangChain](https://github.com/gkamradt/langchain-tutorials)
 
 <a id='data-engineering'></a>
 # 🚀 DATA ENGINEERING
