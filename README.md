@@ -8,7 +8,7 @@ Table of contents:
 - [Machine learning](#machine-learning)
 - [ML engineering](#ml-engineering)
 - [Deep learning](#deep-learning)
-- [NLP](#data-science)
+- [NLP](#nlp)
 - [Data engineering](#data-engineering)
 - [SQL](#sql)
 
