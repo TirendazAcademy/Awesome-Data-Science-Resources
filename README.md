@@ -185,7 +185,7 @@ If you like this repo, give us a ⭐
 - [Computer Vision](https://github.com/sindresorhus/awesome#computer-science)
 - [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 - [Awesome AI Courses](https://github.com/SkalskiP/courses)
-- [Awesome-Langchain](https://github.com/kyrolabs/awesome-langchain)
+- [AI-For-Beginners ](https://github.com/microsoft/AI-For-Beginners)
 
 ### Stable Diffusion Examples
 
@@ -221,6 +221,7 @@ If you like this repo, give us a ⭐
 - [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain)
 - [Overview - Tutorial - Examples of LangChain](https://github.com/gkamradt/langchain-tutorials)
 - [Share LLM apps](https://docs.chainlit.io/overview)
+- [FlagAI (Fast LArge-scale General AI models)](https://github.com/FlagAI-Open/FlagAI)
 
 <a id='data-engineering'></a>
 # 🚀 DATA ENGINEERING
