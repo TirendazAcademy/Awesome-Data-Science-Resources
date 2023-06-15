@@ -117,7 +117,6 @@ If you like this repo, give us a ⭐
 - [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)
 - [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 
-
 ### Projects
 
 - [ML projects](https://github.com/cloudxlab/ml)
@@ -190,6 +189,7 @@ If you like this repo, give us a ⭐
 ### Stable Diffusion Examples
 
 - [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
+- [Expert-Level Tutorials on Stable Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion))
 
 ### YouTube
 
