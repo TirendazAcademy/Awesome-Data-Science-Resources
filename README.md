@@ -236,6 +236,7 @@ If you like this repo, give us a ⭐
 - [Data Engineering Practice](https://github.com/danielbeach/data-engineering-practice) 
 - [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) 
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
 
 ### Projects
 
