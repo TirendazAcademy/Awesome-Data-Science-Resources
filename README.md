@@ -144,7 +144,6 @@ If you like this repo, give us a ⭐
 ### YouTube
 
 - [Python Machine Learning Tutorial](https://youtu.be/7eh4d6sabA0)
-- [Reinforcement Learning](https://youtu.be/Mut_u40Sqz4)
 
 <a id='deep-learning'></a>
 # DEEP LEARNING
@@ -174,6 +173,7 @@ If you like this repo, give us a ⭐
 - [TensorFlow](https://www.tensorflow.org/tutorials)
 - [Keras](https://keras.io/)
 - [PyTorch](https://pytorch.org/tutorials/)
+- [A curated list of tutorials](https://github.com/ritchieng/the-incredible-pytorch)
 - [Learn PyTorch](https://www.learnpytorch.io/)
 - [FastAI](https://docs.fast.ai/)
 - [Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/)
@@ -197,6 +197,7 @@ If you like this repo, give us a ⭐
 - [PyTorch Crash Course](https://youtu.be/OIenNRt2bjg)
 - [Object Detection](https://youtu.be/yqkISICHH-U)
 - [Deep Learning with PyTorch](https://youtu.be/c36lUUr864M)
+- [Reinforcement Learning](https://youtu.be/Mut_u40Sqz4)
 
 <a id='nlp'></a>
 # 🚀 NLP
