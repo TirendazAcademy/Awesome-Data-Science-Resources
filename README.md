@@ -223,6 +223,7 @@ If you like this repo, give us a ⭐
 - [Overview - Tutorial - Examples of LangChain](https://github.com/gkamradt/langchain-tutorials)
 - [Share LLM apps](https://docs.chainlit.io/overview)
 - [FlagAI (Fast LArge-scale General AI models)](https://github.com/FlagAI-Open/FlagAI)
+- [OpenAI CookBook](https://github.com/openai/openai-cookbook)
 
 <a id='data-engineering'></a>
 # 🚀 DATA ENGINEERING
