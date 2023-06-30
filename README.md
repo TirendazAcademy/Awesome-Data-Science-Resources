@@ -78,8 +78,17 @@ If you like this repo, give us a ⭐
 
 ### Blogs
 
-- [Aman.ai-exploring the art of AI](https://aman.ai/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [KD nuggets](https://www.kdnuggets.com/)
+- [HuggingFace Blog](https://huggingface.co/blog)
+- [Comet Blog](https://www.comet.com/site/blog/)
+- [Assembly AI](https://www.assemblyai.com/blog/)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [Weights & Biases Blog](https://wandb.ai/fully-connected)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+- [Datacamp Blog](https://www.datacamp.com/blog)
 - [Papers with code](https://paperswithcode.com/)
+- [Aman.ai-exploring the art of AI](https://aman.ai/)
 
 <a id='machine-learning'></a>
 # 🚀 MACHINE LEARNING
@@ -185,6 +194,7 @@ If you like this repo, give us a ⭐
 - [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 - [Awesome AI Courses](https://github.com/SkalskiP/courses)
 - [AI-For-Beginners ](https://github.com/microsoft/AI-For-Beginners)
+- [Computer Vision Lectures](https://github.com/khanhnamle1994/computer-vision)
 
 ### Stable Diffusion Examples
 
@@ -224,6 +234,7 @@ If you like this repo, give us a ⭐
 - [Share LLM apps](https://docs.chainlit.io/overview)
 - [FlagAI (Fast LArge-scale General AI models)](https://github.com/FlagAI-Open/FlagAI)
 - [OpenAI CookBook](https://github.com/openai/openai-cookbook)
+- [Code Basics LangChain Tutorials](https://github.com/codebasics/langchain)
 
 <a id='data-engineering'></a>
 # 🚀 DATA ENGINEERING
