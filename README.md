@@ -195,6 +195,7 @@ If you like this repo, give us a ⭐
 - [Awesome AI Courses](https://github.com/SkalskiP/courses)
 - [AI-For-Beginners ](https://github.com/microsoft/AI-For-Beginners)
 - [Computer Vision Lectures](https://github.com/khanhnamle1994/computer-vision)
+- [Everything about Transfer Learning](https://github.com/jindongwang/transferlearning)
 
 ### Stable Diffusion Examples
 
