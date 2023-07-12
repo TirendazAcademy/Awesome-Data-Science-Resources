@@ -197,10 +197,11 @@ If you like this repo, give us a ⭐
 - [Computer Vision Lectures](https://github.com/khanhnamle1994/computer-vision)
 - [Everything about Transfer Learning](https://github.com/jindongwang/transferlearning)
 
-### Stable Diffusion Examples
+### Generative AI
 
 - [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
 - [Expert-Level Tutorials on Stable Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion))
+- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 
 ### YouTube
 
@@ -236,6 +237,7 @@ If you like this repo, give us a ⭐
 - [FlagAI (Fast LArge-scale General AI models)](https://github.com/FlagAI-Open/FlagAI)
 - [OpenAI CookBook](https://github.com/openai/openai-cookbook)
 - [Code Basics LangChain Tutorials](https://github.com/codebasics/langchain)
+- [Cohere LLM University](https://docs.cohere.com/docs/llmu)
 
 <a id='data-engineering'></a>
 # 🚀 DATA ENGINEERING
