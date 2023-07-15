@@ -71,6 +71,7 @@ If you like this repo, give us a ⭐
 - [Feature Selector: Simple Feature Selection in Python](https://github.com/WillKoehrsen/feature-selector)
 - [Scikit Learn Mooc](https://inria.github.io/scikit-learn-mooc/index.html) 
 - [Hands-on Machine Learning & Deep Learning ](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)
+- [Data Science Best Resources](https://github.com/tirthajyoti/Data-science-best-resources)
 
 ### DataSets
 
