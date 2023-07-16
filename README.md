@@ -33,7 +33,7 @@ If you like this repo, give us a ⭐
 - [Linear Algebra](https://joshua.smcvt.edu/linearalgebra/) 
 - [Introduction to Machine Learning with Python](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view)
 
-- ### Blogs
+### Blogs
 
 - [Towards Data Science](https://towardsdatascience.com/)
 - [KD nuggets](https://www.kdnuggets.com/)
