@@ -33,14 +33,19 @@ If you like this repo, give us a ⭐
 - [Linear Algebra](https://joshua.smcvt.edu/linearalgebra/) 
 - [Introduction to Machine Learning with Python](https://drive.google.com/file/d/10Vrml277NCOa6SS9GV10m847jtPynt_n/view)
 
-###  Articles You Need to Read
+- ### Blogs
 
-- [Transformers](https://arxiv.org/pdf/1706.03762.pdf) 
-- [BERT](https://arxiv.org/pdf/1810.04805.pdf) 
-- [StyleGAN](https://arxiv.org/pdf/1812.04948.pdf)
-- [CLIP](https://arxiv.org/pdf/2103.00020.pdf) 
-- [The game of Go with deep neural networks](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
-- [DNN for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) 
+- [Towards Data Science](https://towardsdatascience.com/)
+- [KD nuggets](https://www.kdnuggets.com/)
+- [HuggingFace Blog](https://huggingface.co/blog)
+- [Comet Blog](https://www.comet.com/site/blog/)
+- [Assembly AI](https://www.assemblyai.com/blog/)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [Weights & Biases Blog](https://wandb.ai/fully-connected)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+- [Datacamp Blog](https://www.datacamp.com/blog)
+- [Papers with code](https://paperswithcode.com/)
+- [Aman.ai-exploring the art of AI](https://aman.ai/)
 
 ### Projects
 
@@ -77,19 +82,14 @@ If you like this repo, give us a ⭐
 
 - [A dataset with political datasets](https://github.com/erikgahner/PolData)
 
-### Blogs
+###  Articles You Need to Read
 
-- [Towards Data Science](https://towardsdatascience.com/)
-- [KD nuggets](https://www.kdnuggets.com/)
-- [HuggingFace Blog](https://huggingface.co/blog)
-- [Comet Blog](https://www.comet.com/site/blog/)
-- [Assembly AI](https://www.assemblyai.com/blog/)
-- [Geeks for Geeks](https://www.geeksforgeeks.org/)
-- [Weights & Biases Blog](https://wandb.ai/fully-connected)
-- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
-- [Datacamp Blog](https://www.datacamp.com/blog)
-- [Papers with code](https://paperswithcode.com/)
-- [Aman.ai-exploring the art of AI](https://aman.ai/)
+- [Transformers](https://arxiv.org/pdf/1706.03762.pdf) 
+- [BERT](https://arxiv.org/pdf/1810.04805.pdf) 
+- [StyleGAN](https://arxiv.org/pdf/1812.04948.pdf)
+- [CLIP](https://arxiv.org/pdf/2103.00020.pdf) 
+- [The game of Go with deep neural networks](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
+- [DNN for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) 
 
 <a id='machine-learning'></a>
 # 🚀 MACHINE LEARNING
@@ -132,6 +132,7 @@ If you like this repo, give us a ⭐
 - [ML projects](https://github.com/cloudxlab/ml)
 - [DataCamp Project Solutions Python](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
 - [Machine Learning Projects](https://github.com/ASHOKKUMAR-K/Machine-Learning-Projects)
+- [Data Analytics Projects](https://github.com/arjunmann73/Data-Analytics-Projects)
 
 ### Tools
 
