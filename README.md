@@ -240,6 +240,7 @@ If you like this repo, give us a ⭐
 - [OpenAI CookBook](https://github.com/openai/openai-cookbook)
 - [Code Basics LangChain Tutorials](https://github.com/codebasics/langchain)
 - [Cohere LLM University](https://docs.cohere.com/docs/llmu)
+- [Conversation QA Gradio](https://github.com/hwchase17/conversation-qa-gradio)
 
 <a id='data-engineering'></a>
 # 🚀 DATA ENGINEERING
