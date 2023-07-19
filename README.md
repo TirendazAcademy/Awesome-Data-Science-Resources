@@ -22,6 +22,7 @@ If you like this repo, give us a ⭐
 
 ### Free Books
 
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Natural Language Processing with Python](https://nltk.org/book_1ed/) 
 - [Think Stats](https://greenteapress.com/wp/think-stats-2e/) 
 - [Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) 
