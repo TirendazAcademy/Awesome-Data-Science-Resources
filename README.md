@@ -150,7 +150,8 @@ If you like this repo, give us a ⭐
 ### MLOps Tools
 
 - [MLflow](https://mlflow.org/)
-- [Comet](https://www.comet.com/site/)
+- [Comet ML](https://www.comet.com/site/)
+- [Weights & Biases ](https://github.com/wandb)
 
 ### YouTube
 
