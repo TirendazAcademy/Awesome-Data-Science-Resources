@@ -78,6 +78,7 @@ If you like this repo, give us a ⭐
 - [Scikit Learn Mooc](https://inria.github.io/scikit-learn-mooc/index.html) 
 - [Hands-on Machine Learning & Deep Learning ](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)
 - [Data Science Best Resources](https://github.com/tirthajyoti/Data-science-best-resources)
+- [Stats and Maths with Python](https://github.com/tirthajyoti/Stats-Maths-with-Python)
 
 ### DataSets
 
