@@ -128,6 +128,7 @@ If you like this repo, give us a ⭐
 - [DataCamp Notebooks](https://github.com/ozlerhakan/datacamp)
 - [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)
 - [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
+- [Machine Learning Pathway](https://github.com/ayyucedemirbas/Machine-Learning-Pathway)
 
 ### Projects
 
