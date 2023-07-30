@@ -199,6 +199,7 @@ If you like this repo, give us a ⭐
 - [Computer Vision](https://github.com/sindresorhus/awesome#computer-science)
 - [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 - [Awesome AI Courses](https://github.com/SkalskiP/courses)
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [AI-For-Beginners ](https://github.com/microsoft/AI-For-Beginners)
 - [Computer Vision Lectures](https://github.com/khanhnamle1994/computer-vision)
 - [Everything about Transfer Learning](https://github.com/jindongwang/transferlearning)
