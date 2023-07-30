@@ -162,7 +162,7 @@ If you like this repo, give us a ⭐
 - [Python Machine Learning Tutorial](https://youtu.be/7eh4d6sabA0)
 
 <a id='deep-learning'></a>
-# DEEP LEARNING
+# 🚀 DEEP LEARNING
 ![](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources/blob/main/Images/Deep-Learning.png)
 
 ### Books 
