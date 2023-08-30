@@ -54,6 +54,7 @@ If you like this repo, give us a ⭐
 - [Online challenge](https://github.com/alexattia/Data-Science-Projects)
 - [Data science challenges are made on Kaggle using Python](https://github.com/alexattia/Data-Science-Projects)
 - [Data science projects](https://github.com/hyunjoonbok/Python-Projects)
+- [Kaggle Data science projects](https://github.com/alexattia/Data-Science-Projects)
 
 ### Repos Related to Libraries
 
