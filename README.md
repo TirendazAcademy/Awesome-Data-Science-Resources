@@ -205,6 +205,7 @@ If you like this repo, give us a ⭐
 - [AI-For-Beginners ](https://github.com/microsoft/AI-For-Beginners)
 - [Computer Vision Lectures](https://github.com/khanhnamle1994/computer-vision)
 - [Everything about Transfer Learning](https://github.com/jindongwang/transferlearning)
+- [Pytorch Beginner](https://github.com/L1aoXingyu/pytorch-beginner)
 
 ### Generative AI
 
