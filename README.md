@@ -80,6 +80,7 @@ If you like this repo, give us a ⭐
 - [Hands-on Machine Learning & Deep Learning ](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)
 - [Data Science Best Resources](https://github.com/tirthajyoti/Data-science-best-resources)
 - [Stats and Maths with Python](https://github.com/tirthajyoti/Stats-Maths-with-Python)
+- [](https://github.com/nivu/ai_all_resources)
 
 ### DataSets
 
