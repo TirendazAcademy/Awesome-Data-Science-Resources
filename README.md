@@ -207,6 +207,7 @@ If you like this repo, give us a ⭐
 - [Computer Vision Lectures](https://github.com/khanhnamle1994/computer-vision)
 - [Everything about Transfer Learning](https://github.com/jindongwang/transferlearning)
 - [Pytorch Beginner](https://github.com/L1aoXingyu/pytorch-beginner)
+- [Variational autoencoder for anomaly detection](https://github.com/Michedev/VAE_anomaly_detection)
 
 ### Generative AI
 
