@@ -63,6 +63,7 @@ If you like this repo, give us a ⭐
 - [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
 - [Pandas Tutorial Videos](https://github.com/justmarkham/pandas-videos)
 - [Pandas AI](https://github.com/gventuri/pandas-ai)
+- [Pandas-Workshop](https://github.com/stefmolin/pandas-workshop/tree/936e5dea93e1d60efbf98b641050c4ad1f3f1819)
 
 ### Tools
 
