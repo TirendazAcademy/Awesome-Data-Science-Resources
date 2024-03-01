@@ -8,6 +8,7 @@ Table of contents:
 - [Machine learning](#machine-learning)
 - [ML engineering](#ml-engineering)
 - [Deep learning](#deep-learning)
+- [Generative AI](#gen-ai)
 - [NLP](#nlp)
 - [Data engineering](#data-engineering)
 - [SQL](#sql)
@@ -223,6 +224,12 @@ If you like this repo, give us a ⭐
 - [Object Detection](https://youtu.be/yqkISICHH-U)
 - [Deep Learning with PyTorch](https://youtu.be/c36lUUr864M)
 - [Reinforcement Learning](https://youtu.be/Mut_u40Sqz4)
+
+
+<a id='gen-ai'></a>
+# 🚀 Generative AI
+
+- [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 
 <a id='nlp'></a>
 # 🚀 NLP
