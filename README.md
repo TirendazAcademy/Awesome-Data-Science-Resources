@@ -211,12 +211,6 @@ If you like this repo, give us a ⭐
 - [Pytorch Beginner](https://github.com/L1aoXingyu/pytorch-beginner)
 - [Variational autoencoder for anomaly detection](https://github.com/Michedev/VAE_anomaly_detection)
 
-### Generative AI
-
-- [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
-- [Expert-Level Tutorials on Stable Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion))
-- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
-
 ### YouTube
 
 - [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA)
@@ -230,6 +224,9 @@ If you like this repo, give us a ⭐
 # 🚀 Generative AI
 
 - [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+- [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
+- [Expert-Level Tutorials on Stable Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion))
+- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)
 
 <a id='nlp'></a>
 # 🚀 NLP
