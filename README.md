@@ -223,6 +223,7 @@ If you like this repo, give us a ⭐
 <a id='gen-ai'></a>
 # 🚀 Generative AI
 
+- [LLM Courses](https://github.com/mlabonne/llm-course)
 - [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 - [Stable diffusion with Keras with Pokemon Dataset](https://github.com/sayakpaul/stable-diffusion-keras-ft)
 - [Expert-Level Tutorials on Stable Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion))
