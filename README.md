@@ -281,7 +281,10 @@ If you like this repo, give us a ⭐
 - [Web Crawler For Online Inflation](https://github.com/uhussain/WebCrawlerForOnlineInflation) 
 - [This repo](https://github.com/alanchn31/Data-Engineering-Projects) 
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) 
-- [Data Engineering Practice](https://github.com/danielbeach/data-engineering-practice)  
+- [Data Engineering Practice](https://github.com/danielbeach/data-engineering-practice)
+
+### Newsletters
+- [Data News](https://www.blef.fr/blog/)
 
 <a id='sql'></a>
 # 🚀 SQL
