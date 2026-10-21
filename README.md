@@ -118,6 +118,7 @@ If you like this repo, give us a ⭐
 - [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [ML Pipelines on Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/data-science) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [Machine Learning 101](https://machinelearning101.com) - Free interactive browser-based platform to learn machine learning algorithms by experimenting with them.
 
 ### Useful Repos
 
