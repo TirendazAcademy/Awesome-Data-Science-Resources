@@ -88,6 +88,7 @@ If you like this repo, give us a ⭐
 
 - [A dataset with political datasets](https://github.com/erikgahner/PolData)
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Open API with no key: [api.datacircle.dev/v1](https://api.datacircle.dev/v1)
+- [AI Tool Pricing 2026](https://github.com/AZERIA-IT/ai-tool-pricing-2026) - Plans and list prices of 51 AI creative tools (video, image, voice, music and more) in CSV and JSON: 182 priced plan rows, each with the vendor pricing page it was copied from and the date it was checked (2026-11-22). CC BY 4.0.
 
 ###  Articles You Need to Read
 
