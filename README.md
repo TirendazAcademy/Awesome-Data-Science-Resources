@@ -88,6 +88,7 @@ If you like this repo, give us a ⭐
 
 - [A dataset with political datasets](https://github.com/erikgahner/PolData)
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Open API with no key: [api.datacircle.dev/v1](https://api.datacircle.dev/v1)
+- [Scigantic](https://scigantic.com/) - Catalog of 8,000+ public scientific datasets that open in a hosted Jupyter notebook with the files mounted read-only. The free plan covers a shared CPU notebook; larger machines are paid.
 
 ###  Articles You Need to Read
 
