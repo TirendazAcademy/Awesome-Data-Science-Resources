@@ -72,6 +72,7 @@ If you like this repo, give us a ⭐
 - [PyCaret](https://github.com/pycaret/pycaret) 
 - [FeatureSelectionGA](https://github.com/kaushalshetty/FeatureSelectionGA) 
 - [Elicit](https://elicit.org/)
+- [AlphaSift](https://github.com/ZhuLinsen/alphasift) - Open-source multi-market quantitative equity screener with zero-snooping Walk-Forward pattern replay, 14-tool read-only STDIO MCP server, and public T+5/10/20 ledger.
 
 ### Useful Repos
 
