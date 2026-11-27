@@ -300,6 +300,7 @@ If you like this repo, give us a ⭐
 - [Learning SQL book](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) 
 - [SQL Traps](https://github.com/christianvadillo/sql-traps)
+- [The Work Gym SQL practice](https://theworkgym.com/sql/)
 
 ### Projects
 
